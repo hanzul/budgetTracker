@@ -23,9 +23,8 @@
 
 ## The application has been deployed in Heroku: 
 
-## Click on the link [budget-tracker] (https://thawing-ridge-77385.herokuapp.com)
+## Click on the link to check out the app on heroku [budget-tracker](https://budgettracker19.herokuapp.com/)
 
 ## Web Samples
 
-1. <img width="983" alt="Screen Shot 2020-10-14 at 10 09 54 PM" src="https://user-images.githubusercontent.com/14985358/96392605-795c4980-1171-11eb-88db-fc07993862f8.png">
-2. <img width="1228" alt="Screen Shot 2020-10-14 at 10 18 21 PM" src="https://user-images.githubusercontent.com/14985358/96392601-75c8c280-1171-11eb-98fc-d9f9bf9f89bd.png">
+<img width="2168" alt="Screen Shot 2020-11-01 at 11 37 22 AM" src="https://user-images.githubusercontent.com/3277722/97812536-b1b25c00-1c36-11eb-8cf6-f6b7b0de1ccc.png">
